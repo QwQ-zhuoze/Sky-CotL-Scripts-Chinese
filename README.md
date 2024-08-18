@@ -1,6 +1,7 @@
  # Sky-CotL-脚本-简体中文页面
 
 欢迎来到 Sky-CotL 脚本的简体中文页面！这是一个分支库！
+
 TGC公司最新游戏Sky: Children of the Light 的模组公开合集！
 
 ## 项目概况
@@ -15,7 +16,7 @@ TGC公司最新游戏Sky: Children of the Light 的模组公开合集！
 
 ## 交流群&资源
 
-（注：在中国大陆的用户无法正常访问Telegram和Discord，请自行解决）
+（注：在中国大陆的用户无法正常访问Telegram，Discord和Mega，请自行解决）
 
 Telegram - thatskymod: https://t.me/thatskymod  
 Telegram - AutoWax EN: https://t.me/skyautowax  
@@ -35,7 +36,7 @@ Discord - Sky CotL Shelter: https://discord.com/invite/MzQFnr3RPZ
 Discord - Sky Research Lab: https://discord.com/invite/Zq7vu9TyFJ  
 Discord - That Modding Community (this is not us): https://discord.com/invite/h8sRenYG6H  
 
-MEGA - Large Collection of Sky Music Sheets: https://mega.nz/folder/mvQAQIwb#MmJdqJCZkvTY2Ma7A8YzSg  
+（光遇乐谱）MEGA - Large Collection of Sky Music Sheets: https://mega.nz/folder/mvQAQIwb#MmJdqJCZkvTY2Ma7A8YzSg  
 
 ## 贡献
 欢迎投稿。对于重大更改，请先打开一个问题，讨论您想要更改的内容。
